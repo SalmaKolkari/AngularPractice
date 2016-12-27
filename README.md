@@ -1,2 +1,2 @@
 # AngularPractice
-Test repository for angular practice
+This is test repository for angular practice.
